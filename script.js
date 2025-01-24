@@ -124,7 +124,7 @@ function postToGoogle() {
 
                    $.ajax({
 
-                    url: `https://docs.google.com/forms/d/e/1FAIpQLSfpTGSji6L49yFl49yAOTjSiBBlOCJB-jwGMSxLViDFvac85g/formResponse?submit=Submit&usp=pp_url&entry.1229598145=${field1}&entry.1708143827=${field2}`,
+                   url: `https://docs.google.com/forms/d/e/1FAIpQLScSyxAuZJ2bs7VFdKDvuEhMX_ipYXbfSk3pJjMcBbct7elUTg/formResponse?submit=Submit&usp=pp_url&entry.1809530832=${field1}&entry.1153543234=${field2}`,
                     
                    
 
