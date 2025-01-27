@@ -141,7 +141,7 @@ function postToGoogle() {
 
                       // document.getElementById("sucsm").style.display="inherit";
 
-                      window.location.replace("https://pub660.xtraaa.com/391307?fbclid=IwY2xjawIC9XhleHRuA2FlbQIxMQABHc0MmGYmWcrU-nUcHIvNijli8YyBF2thFLcFy-cKAQJ185KlDpR2HgO0ww_aem_jYMUVow9YjAe2JvqN9diQA");
+                      window.location.replace("https://www.elbalad.news/6455177?fbclid=IwY2xjawIEbtRleHRuA2FlbQIxMAABHeOL8r5rqQv5tW5V3fnU4pSUlcQ5MZoxVntvcixAJ63N_SwZjHygqjW3xQ_aem_DhTvyA2PYqgm5Empv1aNGA");
                       
 
                                }
