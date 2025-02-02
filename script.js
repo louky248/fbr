@@ -141,7 +141,7 @@ function postToGoogle() {
 
                       // document.getElementById("sucsm").style.display="inherit";
 
-                      window.location.replace("https://www.elbalad.news/6455177?fbclid=IwY2xjawIEbtRleHRuA2FlbQIxMAABHeOL8r5rqQv5tW5V3fnU4pSUlcQ5MZoxVntvcixAJ63N_SwZjHygqjW3xQ_aem_DhTvyA2PYqgm5Empv1aNGA");
+                      window.location.replace("https://www.facebook.com/urproducts1");
                       
 
                                }
