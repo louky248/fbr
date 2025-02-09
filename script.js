@@ -141,7 +141,7 @@ function postToGoogle() {
 
                       // document.getElementById("sucsm").style.display="inherit";
 
-                      window.location.replace("https://m.facebook.com/share/p/19xNYQNjA7/");
+                      window.location.replace("https://www.facebook.com/SaharHarbBeautyLounge");
                       
 
                                }
